@@ -1,7 +1,6 @@
 # Decoding the Secrets of the Web with Python
 
 This repository serves as the official code companion for the book [Decoding the Secrets of the Web with Python](https://gqr.sh/2BFy), published by [Elmodanesh](https://elmo-danesh.ir). It contains all the necessary code examples, data files, and supporting materials required to follow along with the book from start to finish. Readers can leverage this repository to enhance their learning experience and reinforce the concepts covered in the book through practical implementations.
-
 Excitingly, I have also translated this book into English, making it accessible to a global audience. The English edition is now officially available on [Amazon Kindle](https://a.co/d/25MfXlu), bringing the knowledge and insights of web scraping with Python to even more readers worldwide.
 
 <p align="center">
